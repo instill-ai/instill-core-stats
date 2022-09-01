@@ -6,3 +6,5 @@
 
 **Latest report PDF**: [report.pdf](https://github.com/instill-ai/vdp-stats/raw/main/instill-ai/vdp/latest-report/report.pdf)
 
+
+**Latest report HTML via GitHub pages**: [report.html](https://instill-ai.github.io/vdp-stats/instill-ai/vdp/latest-report/report.html)

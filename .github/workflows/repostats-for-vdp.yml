@@ -28,3 +28,4 @@ jobs:
           # (which this workflow file lives in, to store data
           # and the report files).
           ghtoken: ${{ secrets.botGitHubToken }}
+          ghpagesprefix: https://instill-ai.github.io/vdp-stats

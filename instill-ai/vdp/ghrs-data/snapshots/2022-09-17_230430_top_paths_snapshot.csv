@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/vdp,547,324
+/instill-ai/vdp/issues,20,9
+/instill-ai/vdp/tree/main/protocol,16,8
+/instill-ai/vdp/blob/main/protocol/vdp_protocol.yaml,11,4
+/instill-ai/vdp/tree/main/examples/streamlit/yolov7,10,6
+/instill-ai/vdp/tree/main/examples/async/yolov7,7,5
+/instill-ai/vdp/blob/main/docker-compose.yml,6,5
+/instill-ai/vdp/search,6,3
+/instill-ai/vdp/pulls,6,2
+/instill-ai/vdp/tree/main/release-please,5,4

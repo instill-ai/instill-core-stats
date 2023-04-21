@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/vdp,266,143
+/instill-ai/vdp/actions,59,5
+/instill-ai/vdp/pulls,30,7
+/instill-ai/vdp/pull/259,21,3
+/instill-ai/vdp/issues,15,12
+/instill-ai/vdp/blob/phelannguyen/ins-256-implement-custom-logic-in-model-backend/charts/vdp/templates/model/post-install-job.yaml,15,4
+/instill-ai/vdp/tree/main/model-hub,14,7
+/instill-ai/vdp/blob/main/docker-compose.yml,14,5
+/instill-ai/vdp/actions/workflows/e2e-test-demo.yml,14,1
+/instill-ai/vdp/pull/259/files,13,3

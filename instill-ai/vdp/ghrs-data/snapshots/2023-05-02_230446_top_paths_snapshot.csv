@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/vdp,270,161
+/instill-ai/vdp/blob/main/docker-compose.yml,28,5
+/instill-ai/vdp/blob/main/docker-compose.latest.yml,25,4
+/instill-ai/vdp/blob/main/Makefile,18,4
+/instill-ai/vdp/pulls,15,8
+/instill-ai/vdp/tree/main/.github/workflows,12,4
+/instill-ai/vdp/issues,11,7
+/instill-ai/vdp/tree/main/examples,8,6
+/instill-ai/vdp/blob/main/docker-compose.build.yml,8,3
+/instill-ai/vdp/blob/main/.github/workflows/integration-test-latest.yml,8,2

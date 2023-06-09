@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/vdp,250,145
+/instill-ai/vdp/issues,21,13
+/instill-ai/vdp/tree/main/.github,21,4
+/instill-ai/vdp/tree/main/.github/workflows,20,4
+/instill-ai/vdp/blob/main/.github/workflows/e2e-test-demo.yml,14,2
+/instill-ai/vdp/releases/tag/v0.10.0-alpha,11,9
+/instill-ai/vdp/tree/main/model-hub,10,4
+/instill-ai/vdp/blob/heiru/ins-778-include-optional-log-services-in-ce-vdp/Makefile,9,3
+/instill-ai/vdp/blob/heiru/ins-778-include-optional-log-services-in-ce-vdp/charts/vdp/values.yaml,8,1
+/instill-ai/vdp/commit/d3cd32d923297a410b9046e8987f6b7019e94d90,8,1

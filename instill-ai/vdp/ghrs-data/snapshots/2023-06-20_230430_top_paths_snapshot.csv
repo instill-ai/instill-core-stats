@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/vdp,244,162
+/instill-ai/vdp/tree/main/model-hub,25,5
+/instill-ai/vdp/issues,19,14
+/instill-ai/vdp/tree/main/protocol,14,5
+/instill-ai/vdp/blob/f563393dca62fc1961e1a370f5a38fb9bc51c5a3/docker-compose-dev.yml,13,1
+/instill-ai/vdp/tree/main/examples,12,6
+/instill-ai/vdp/blob/main/.github/workflows/e2e-test-demo.yml,11,1
+/instill-ai/vdp/pulls,8,6
+/instill-ai/vdp/blob/main/protocol/vdp_protocol.yaml,8,5
+/instill-ai/vdp/blob/main/docker-compose.yml,8,2

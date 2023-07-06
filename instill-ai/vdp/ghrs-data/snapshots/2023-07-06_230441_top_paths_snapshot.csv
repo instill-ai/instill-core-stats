@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/vdp,208,103
+/instill-ai/vdp/actions,142,2
+/instill-ai/vdp/actions/workflows/e2e-test-on-prem.yml,66,2
+/instill-ai/vdp/actions/workflows/e2e-test-demo.yml,39,2
+/instill-ai/vdp/pulls,26,6
+/instill-ai/vdp/tree/main/.github,21,2
+/instill-ai/vdp/blob/43368f8031b863d6db123d32c6933704e288d628/.github/workflows/integration-test-console.yml,18,1
+/instill-ai/vdp/actions/workflows/integration-test-latest.yml,16,2
+/instill-ai/vdp/tree/main/.github/workflows,16,2
+/instill-ai/vdp/blob/main/.github/workflows/e2e-test-on-prem.yml,16,1

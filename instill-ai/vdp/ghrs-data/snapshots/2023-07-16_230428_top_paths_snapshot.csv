@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/vdp,205,104
+/instill-ai/vdp/actions,43,2
+/instill-ai/vdp/pulls,31,6
+/instill-ai/vdp/tree/main/.github,27,3
+/instill-ai/vdp/issues,25,10
+/instill-ai/vdp/tree/main/.github/workflows,22,3
+/instill-ai/vdp/tree/main/charts/vdp,21,3
+/instill-ai/vdp/tree/main/release-please,21,2
+/instill-ai/vdp/blob/43368f8031b863d6db123d32c6933704e288d628/.github/workflows/integration-test-console.yml,18,1
+/instill-ai/vdp/blob/main/release-please/manifest.json,18,1

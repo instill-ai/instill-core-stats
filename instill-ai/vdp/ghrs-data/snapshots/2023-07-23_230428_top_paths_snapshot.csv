@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/vdp,247,139
+/instill-ai/vdp/tree/main/charts/vdp,43,5
+/instill-ai/vdp/issues,36,16
+/instill-ai/vdp/pulls,32,7
+/instill-ai/vdp/tree/main/charts/vdp/templates,28,4
+/instill-ai/vdp/actions,27,1
+/instill-ai/vdp/tree/main/examples,18,6
+/instill-ai/vdp/tree/main/release-please,17,2
+/instill-ai/vdp/tree/main/.github,12,3
+/instill-ai/vdp/blob/85f218932b05f59c92e4488cec0e2797f08d8985/charts/vdp/templates/api-gateway-vdp/ingress.yaml,12,1

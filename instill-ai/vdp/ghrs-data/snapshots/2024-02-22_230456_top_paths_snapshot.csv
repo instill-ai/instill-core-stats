@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/vdp,497,367
+/instill-ai/vdp/tree/main/charts/vdp,33,10
+/instill-ai/vdp/tree/main/release-please,20,7
+/instill-ai/vdp/tree/main/charts/vdp/templates,17,4
+/instill-ai/vdp/tree/main/charts/vdp/templates/pipeline-backend,13,4
+/instill-ai/vdp/blob/main/LICENSE,12,6
+/instill-ai/vdp/blob/main/docker-compose.yml,10,4
+/instill-ai/vdp/blob/main/Dockerfile,10,4
+/instill-ai/vdp/blob/main/charts/vdp/Chart.yaml,10,3
+/instill-ai/vdp/tree/main/charts/vdp/templates/internal,9,4

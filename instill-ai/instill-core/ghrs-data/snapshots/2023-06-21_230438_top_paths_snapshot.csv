@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,254,165
+/instill-ai/instill-core/tree/main/model-hub,23,5
+/instill-ai/instill-core/issues,18,13
+/instill-ai/instill-core/tree/main/protocol,15,6
+/instill-ai/instill-core/tree/main/examples,13,7
+/instill-ai/instill-core/blob/f563393dca62fc1961e1a370f5a38fb9bc51c5a3/docker-compose-dev.yml,13,1
+/instill-ai/instill-core/blob/main/.github/workflows/e2e-test-demo.yml,13,1
+/instill-ai/instill-core/pulls,11,9
+/instill-ai/instill-core/blob/main/protocol/instill-core_protocol.yaml,9,6
+/instill-ai/instill-core/blob/main/docker-compose.yml,9,3

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,1089,729
+/instill-ai/instill-core/issues,36,31
+/instill-ai/instill-core/tree/main/examples,26,19
+/instill-ai/instill-core/pulls,20,11
+/instill-ai/instill-core/actions/runs/3497199930,20,3
+/instill-ai/instill-core/commits,17,10
+/instill-ai/instill-core/tree/main/protocol,16,12
+/instill-ai/instill-core/tree/main/examples/async/yolov7,16,11
+/instill-ai/instill-core/tree/add-helm-charts/charts,13,1
+/instill-ai/instill-core/blob/add-helm-charts/charts/Makefile,12,1

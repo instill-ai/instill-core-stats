@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,1677,1030
+/instill-ai/instill-core/issues,66,50
+/instill-ai/instill-core/tree/main/examples,49,41
+/instill-ai/instill-core/pulls,41,19
+/instill-ai/instill-core/blob/main/Makefile,31,22
+/instill-ai/instill-core/tree/main/protocol,26,24
+/instill-ai/instill-core/tree/main/asset/lib,26,22
+/instill-ai/instill-core/tree/main/examples/async/yolov7,22,16
+/instill-ai/instill-core/tree/main/examples/streamlit/yolov7,21,18
+/instill-ai/instill-core/tree/main/release-please,19,18

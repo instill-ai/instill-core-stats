@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,294,189
+/instill-ai/instill-core/tree/main/examples,14,10
+/instill-ai/instill-core/pulls,14,7
+/instill-ai/instill-core/tree/main/examples/streamlit,9,5
+/instill-ai/instill-core/blob/main/docker-compose.dev.yml,9,3
+/instill-ai/instill-core/tree/main/protocol,8,7
+/instill-ai/instill-core/issues,8,5
+/instill-ai/instill-core/tree/main/examples/streamlit/instance_segmentation,8,3
+/instill-ai/instill-core/tree/main/asset/lib,7,5
+/instill-ai/instill-core/blob/main/Makefile,7,4

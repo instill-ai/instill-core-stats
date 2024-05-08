@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,255,133
+/instill-ai/instill-core/blob/main/docker-compose.yml,30,5
+/instill-ai/instill-core/pulls,26,6
+/instill-ai/instill-core/blob/main/docker-compose.latest.yml,24,3
+/instill-ai/instill-core/pull/259,21,3
+/instill-ai/instill-core/blob/main/Makefile,21,2
+/instill-ai/instill-core/actions,15,4
+/instill-ai/instill-core/blob/phelannguyen/ins-256-implement-custom-logic-in-model-backend/charts/instill-core/templates/model/post-install-job.yaml,15,4
+/instill-ai/instill-core/issues,13,8
+/instill-ai/instill-core/pull/259/files,13,3

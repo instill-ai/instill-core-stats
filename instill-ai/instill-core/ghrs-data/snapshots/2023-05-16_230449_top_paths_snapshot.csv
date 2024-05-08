@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,276,140
+/instill-ai/instill-core/releases/tag/v0.9.3-alpha,54,46
+/instill-ai/instill-core/pull/268,40,4
+/instill-ai/instill-core/pulls,37,9
+/instill-ai/instill-core/issues,33,15
+/instill-ai/instill-core/blob/9236a61c5b403e492ab9d54b86de4b4d59639649/Makefile,33,4
+/instill-ai/instill-core/actions,30,4
+/instill-ai/instill-core/tree/main/charts/instill-core,27,8
+/instill-ai/instill-core/blob/deniz/ins-562-helm-integration-test/Makefile,26,2
+/instill-ai/instill-core/blob/main/Makefile,21,6

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,200,97
+/instill-ai/instill-core/pulls,12,6
+/instill-ai/instill-core/actions,12,2
+/instill-ai/instill-core/issues,11,6
+/instill-ai/instill-core/pull/171,9,1
+/instill-ai/instill-core/tree/main/examples,7,4
+/instill-ai/instill-core/tree/main/protocol,5,5
+/instill-ai/instill-core/discussions,5,4
+/instill-ai/instill-core/pull/170,5,4
+/instill-ai/instill-core/tree/v0.3.0-alpha/examples/streamlit/instance_segmentation,4,3

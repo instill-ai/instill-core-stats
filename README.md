@@ -1,5 +1,5 @@
-# vdp-stats
+# instill-core-stats
 
-Check the [VDP](https://github.com/instill-ai/vdp) statistics:
-- [HTML report](https://instill-ai.github.io/vdp-stats/instill-ai/vdp/latest-report/report.html)
-- [PDF report](https://instill-ai.github.io/vdp-stats/instill-ai/vdp/latest-report/report.pdf)
+Check the [instill-core](https://github.com/instill-ai/instill-core) statistics:
+- [HTML report](https://instill-ai.github.io/instill-core-stats/instill-ai/instill-core/latest-report/report.html)
+- [PDF report](https://instill-ai.github.io/instill-core-stats/instill-ai/instill-core/latest-report/report.pdf)

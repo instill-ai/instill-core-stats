@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,262,138
+/instill-ai/instill-core/actions,45,3
+/instill-ai/instill-core/pulls,39,7
+/instill-ai/instill-core/tree/main/examples,25,9
+/instill-ai/instill-core/pull/358,24,1
+/instill-ai/instill-core/releases/tag/v0.14.0-alpha,21,16
+/instill-ai/instill-core/tree/main/.github,17,3
+/instill-ai/instill-core/blob/main/.github/CONTRIBUTING.md,15,4
+/instill-ai/instill-core/blob/main/Makefile,14,4
+/instill-ai/instill-core/releases,13,8

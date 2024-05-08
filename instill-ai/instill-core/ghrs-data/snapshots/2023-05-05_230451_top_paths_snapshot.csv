@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,306,170
+/instill-ai/instill-core/pulls,43,10
+/instill-ai/instill-core/pull/268,40,3
+/instill-ai/instill-core/blob/main/Makefile,34,7
+/instill-ai/instill-core/blob/9236a61c5b403e492ab9d54b86de4b4d59639649/Makefile,33,4
+/instill-ai/instill-core/blob/deniz/ins-562-helm-integration-test/Makefile,26,2
+/instill-ai/instill-core/actions,25,4
+/instill-ai/instill-core/blob/main/docker-compose.yml,21,4
+/instill-ai/instill-core/blob/main/docker-compose.latest.yml,21,3
+/instill-ai/instill-core/tree/main/.github/workflows,15,4

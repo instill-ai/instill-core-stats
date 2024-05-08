@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,547,324
+/instill-ai/instill-core/issues,20,9
+/instill-ai/instill-core/tree/main/protocol,16,8
+/instill-ai/instill-core/blob/main/protocol/instill-core_protocol.yaml,11,4
+/instill-ai/instill-core/tree/main/examples/streamlit/yolov7,10,6
+/instill-ai/instill-core/tree/main/examples/async/yolov7,7,5
+/instill-ai/instill-core/blob/main/docker-compose.yml,6,5
+/instill-ai/instill-core/search,6,3
+/instill-ai/instill-core/pulls,6,2
+/instill-ai/instill-core/tree/main/release-please,5,4

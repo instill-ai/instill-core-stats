@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,218,136
+/instill-ai/instill-core/issues,21,14
+/instill-ai/instill-core/tree/main/model-hub,21,9
+/instill-ai/instill-core/tree/main/.github,15,3
+/instill-ai/instill-core/tree/main/protocol,14,6
+/instill-ai/instill-core/tree/main/.github/workflows,14,3
+/instill-ai/instill-core/tree/main/release-please,12,6
+/instill-ai/instill-core/blob/main/charts/instill-core/values.yaml,12,1
+/instill-ai/instill-core/tree/main/test,9,4
+/instill-ai/instill-core/blob/heiru/ins-778-include-optional-log-services-in-ce-instill-core/Makefile,9,3

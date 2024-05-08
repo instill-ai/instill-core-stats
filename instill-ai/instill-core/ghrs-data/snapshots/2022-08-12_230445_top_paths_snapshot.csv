@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,305,98
+/instill-ai/instill-core/actions,38,4
+/instill-ai/instill-core/issues,22,7
+/instill-ai/instill-core/discussions,18,3
+/instill-ai/instill-core/tree/main,16,1
+/instill-ai/instill-core/blob/main/Makefile,15,4
+/instill-ai/instill-core/actions/runs/2779222489,15,3
+/instill-ai/instill-core/pull/132,14,6
+/instill-ai/instill-core/pull/132/files,11,4
+/instill-ai/instill-core/actions/workflows/integration-test.yml,11,3

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,567,361
+/instill-ai/instill-core/pulls,30,9
+/instill-ai/instill-core/issues,25,18
+/instill-ai/instill-core/tree/main/charts/instill-core,18,10
+/instill-ai/instill-core/actions,15,5
+/instill-ai/instill-core/tree/main/examples,14,8
+/instill-ai/instill-core/pull/234,13,5
+/instill-ai/instill-core/commits/main,10,5
+/instill-ai/instill-core/tree/main/examples/instill/streamlit-instance-segmentation-sync-http-http-stomata,10,4
+/instill-ai/instill-core/actions/workflows/integration-test-latest.yml,8,4

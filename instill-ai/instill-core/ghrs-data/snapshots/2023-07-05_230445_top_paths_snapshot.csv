@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,202,107
+/instill-ai/instill-core/actions,136,2
+/instill-ai/instill-core/actions/workflows/e2e-test-on-prem.yml,66,2
+/instill-ai/instill-core/actions/workflows/e2e-test-demo.yml,39,2
+/instill-ai/instill-core/pulls,25,5
+/instill-ai/instill-core/tree/main/.github,21,2
+/instill-ai/instill-core/tree/main/charts/instill-core,16,6
+/instill-ai/instill-core/tree/main/examples,16,5
+/instill-ai/instill-core/tree/main/.github/workflows,16,2
+/instill-ai/instill-core/blob/main/.github/workflows/e2e-test-on-prem.yml,16,1

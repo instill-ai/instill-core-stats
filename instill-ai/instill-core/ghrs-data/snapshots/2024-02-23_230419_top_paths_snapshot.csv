@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,520,388
+/instill-ai/instill-core/tree/main/charts/instill-core,48,13
+/instill-ai/instill-core/tree/main/release-please,25,9
+/instill-ai/instill-core/tree/main/charts/instill-core/templates,24,6
+/instill-ai/instill-core/tree/main/charts/instill-core/templates/pipeline-backend,18,5
+/instill-ai/instill-core/blob/main/LICENSE,12,6
+/instill-ai/instill-core/blob/main/Dockerfile,12,5
+/instill-ai/instill-core/tree/main/charts/instill-core/templates/internal,12,5
+/instill-ai/instill-core/blob/main/docker-compose.yml,10,4
+/instill-ai/instill-core/blob/main/charts/instill-core/Chart.yaml,10,3

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,208,105
+/instill-ai/instill-core/actions,45,2
+/instill-ai/instill-core/pulls,28,5
+/instill-ai/instill-core/tree/main/.github,25,3
+/instill-ai/instill-core/tree/main/release-please,23,2
+/instill-ai/instill-core/tree/main/charts/instill-core,22,5
+/instill-ai/instill-core/issues,20,8
+/instill-ai/instill-core/blob/main/release-please/manifest.json,20,1
+/instill-ai/instill-core/tree/main/.github/workflows,18,3
+/instill-ai/instill-core/blob/43368f8031b863d6db123d32c6933704e288d628/.github/workflows/integration-test-console.yml,18,1

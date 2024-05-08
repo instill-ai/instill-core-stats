@@ -1,5 +1,5 @@
 % Statistics for instill-ai/vdp
-% Generated for [instill-ai/vdp](https://github.com/instill-ai/vdp) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-05-08 09:22 UTC.
+% Generated for [instill-ai/vdp](https://github.com/instill-ai/vdp) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-05-08 09:23 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `m.facebook.com`, 02: `medium.com`, 03: `stackshare.io`, 04: `github.com`, 05: `facebook.com`, 06: `l.facebook.com`, 07: `Google`, 08: `mail.google.com`, 09: `com.google.android.gm`, 10: `lm.facebook.com`, 11: `news.ycombinator.com`, 12: `mail.qq.com`, 13: `forms.clickup.com`, 14: `indiehackers.com`, 15: `t.co`
+Top 15 referrers: 01: `m.facebook.com`, 02: `medium.com`, 03: `stackshare.io`, 04: `github.com`, 05: `facebook.com`, 06: `l.facebook.com`, 07: `Google`, 08: `mail.google.com`, 09: `com.google.android.gm`, 10: `lm.facebook.com`, 11: `news.ycombinator.com`, 12: `mail.qq.com`, 13: `forms.clickup.com`, 14: `indiehackers.com`, 15: `instill.tech`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `m.facebook.com`, 02: `medium.com`, 03: `stackshare.io`, 0
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `vdp`, 02: `instill-core`, 03: `vdp/releases/tag/v0.7.0-alpha`, 04: `vdp/issues`, 05: `core`, 06: `vdp/releases/tag/v0.9.3-alpha`, 07: `vdp/tree/main/examples`, 08: `vdp/tree/main/charts/vdp`, 09: `vdp/tree/main/protocol`, 10: `vdp/blob/main/LICENSE`, 11: `vdp/pulls`, 12: `vdp/tree/main/asset/lib`, 13: `vdp/tree/main/release-please`, 14: `vdp/releases/tag/v0.15.0-alpha`, 15: `vdp/releases`
+Top 15 paths: 01: `vdp`, 02: `instill-core`, 03: `vdp/releases/tag/v0.7.0-alpha`, 04: `vdp/issues`, 05: `core`, 06: `vdp/releases/tag/v0.9.3-alpha`, 07: `vdp/tree/main/examples`, 08: `vdp/tree/main/charts/vdp`, 09: `vdp/tree/main/protocol`, 10: `vdp/blob/main/LICENSE`, 11: `vdp/pulls`, 12: `vdp/tree/main/release-please`, 13: `vdp/tree/main/asset/lib`, 14: `vdp/blob/main/Makefile`, 15: `vdp/releases`
 
 
 <script type="text/javascript">

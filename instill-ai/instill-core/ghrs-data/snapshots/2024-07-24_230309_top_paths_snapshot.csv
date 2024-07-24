@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,348,178
+/instill-ai/instill-core/issues,44,15
+/instill-ai/instill-core/blob/5b43da416300925f5fad974da87830ffad1eace7/charts/core/templates/artifact-backend/configmap.yaml,42,2
+/instill-ai/instill-core/blob/main/docker-compose-latest.yml,28,1
+/instill-ai/instill-core/blob/main/Makefile,23,3
+/instill-ai/instill-core/issues/1024,22,4
+/instill-ai/instill-core/pulls,22,4
+/instill-ai/instill-core/blob/main/.env,21,3
+/instill-ai/instill-core/pull/1045,20,3
+/instill-ai/instill-core/issues/1023,18,2

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,298,172
+/instill-ai/instill-core/issues,63,20
+/instill-ai/instill-core/issues/1095,32,8
+/instill-ai/instill-core/blob/main/schema/ai-tasks.json,23,3
+/instill-ai/instill-core/issues/new/choose,20,4
+/instill-ai/instill-core/pull/1102,20,2
+/instill-ai/instill-core/issues/new,19,4
+/instill-ai/instill-core/issues/1094,17,5
+/instill-ai/instill-core/commits/main,17,3
+/instill-ai/instill-core/blob/main/.github/workflows/sync-version-with-api-docs.yml,16,3

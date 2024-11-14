@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,320,191
+/instill-ai/instill-core/issues,33,13
+/instill-ai/instill-core/issues/1133,29,6
+/instill-ai/instill-core/pull/1103,27,4
+/instill-ai/instill-core/issues/1134,24,4
+/instill-ai/instill-core/issues/1131,18,3
+/instill-ai/instill-core/pulls,16,9
+/instill-ai/instill-core/blob/main/.github/workflows/integration-test-backend.yml,15,4
+/instill-ai/instill-core/pull/1103/files,14,4
+/instill-ai/instill-core/blob/main/.github/workflows/helm-integration-test-backend.yml,12,5

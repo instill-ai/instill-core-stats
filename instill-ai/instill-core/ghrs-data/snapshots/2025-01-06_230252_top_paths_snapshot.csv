@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,167,126
+/instill-ai/instill-core/issues/1131,13,1
+/instill-ai/instill-core/issues,9,4
+/instill-ai/instill-core/tree/sarthakgupta/rollout-configuration-draft,8,1
+/instill-ai/instill-core/blob/sarthakgupta/rollout-configuration-draft/charts/core/values.yaml,6,1
+/instill-ai/instill-core/stargazers,5,2
+/instill-ai/instill-core/tree/main/charts/core,4,3
+/instill-ai/instill-core/pulls,4,2
+/instill-ai/instill-core/blob/sarthakgupta/rollout-configuration-draft/charts/core/templates/api-gateway/deployment.yaml,4,1
+/instill-ai/instill-core/blob/main/docker-compose.yml,3,3

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,198,131
+/instill-ai/instill-core/issues,18,5
+/instill-ai/instill-core/pulls,9,4
+/instill-ai/instill-core/commits/main,8,4
+/instill-ai/instill-core/blob/main/docker-compose.yml,7,4
+/instill-ai/instill-core/tree/main/charts/core,7,3
+/instill-ai/instill-core/blob/main/.env,6,4
+/instill-ai/instill-core/blob/main/charts/core/values.yaml,6,1
+/instill-ai/instill-core/pull/1170/commits,6,1
+/instill-ai/instill-core/tree/main,4,4

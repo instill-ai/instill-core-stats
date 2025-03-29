@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,304,180
+/instill-ai/instill-core/pulls,63,4
+/instill-ai/instill-core/tree/main/charts/core,47,7
+/instill-ai/instill-core/blob/main/charts/core/templates/_helpers.tpl,41,2
+/instill-ai/instill-core/blob/main/charts/core/templates/pipeline-backend/configmap.yaml,36,1
+/instill-ai/instill-core/blob/main/charts/core/values.yaml,34,2
+/instill-ai/instill-core/pull/1195,30,3
+/instill-ai/instill-core/pull/1190,26,3
+/instill-ai/instill-core/actions,19,2
+/instill-ai/instill-core/actions/runs/14112727382,16,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,136,78
+/instill-ai/instill-core/blob/main/charts/core/templates/ray/service.yaml,52,2
+/instill-ai/instill-core/blob/main/charts/core/templates/ray/monitor.yaml,25,1
+/instill-ai/instill-core/tree/main/charts/core,20,7
+/instill-ai/instill-core/blob/main/charts/core/values.yaml,19,3
+/instill-ai/instill-core/issues,13,8
+/instill-ai/instill-core/pull/1207,10,3
+/instill-ai/instill-core/pulls,9,5
+/instill-ai/instill-core/commits/main,9,3
+/instill-ai/instill-core/actions/runs/14423072355,9,1

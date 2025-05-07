@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,133,85
+/instill-ai/instill-core/pull/1224,35,1
+/instill-ai/instill-core/labels,20,1
+/instill-ai/instill-core/issues,16,3
+/instill-ai/instill-core/actions/runs/14764412138,15,1
+/instill-ai/instill-core/pulls,12,3
+/instill-ai/instill-core/actions/runs/14787449822,12,1
+/instill-ai/instill-core/pull/1221,12,1
+/instill-ai/instill-core/blob/85db72ba2f453072ae35124c2c598ace8abf1d41/charts/core/templates/registry/maintenance.yaml,11,1
+/instill-ai/instill-core/compare/main...pinglin/helm-remove-custom-ray,11,1

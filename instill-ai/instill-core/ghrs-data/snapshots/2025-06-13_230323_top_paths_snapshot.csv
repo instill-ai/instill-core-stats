@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,242,157
+/instill-ai/instill-core/actions,36,3
+/instill-ai/instill-core/actions/workflows/integration-test.yml,35,1
+/instill-ai/instill-core/pulls,27,4
+/instill-ai/instill-core/issues,10,7
+/instill-ai/instill-core/pull/1239,10,1
+/instill-ai/instill-core/tree/main/charts/core,6,3
+/instill-ai/instill-core/actions/runs/15362960330/job/43232326238,6,1
+/instill-ai/instill-core/pull/1237,5,3
+/instill-ai/instill-core/actions/runs/15358646561/job/43222492145,5,1

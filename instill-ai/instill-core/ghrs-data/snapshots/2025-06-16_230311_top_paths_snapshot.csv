@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,286,170
+/instill-ai/instill-core/actions,39,3
+/instill-ai/instill-core/pulls,34,5
+/instill-ai/instill-core/issues,13,10
+/instill-ai/instill-core/actions/workflows/integration-test.yml,13,1
+/instill-ai/instill-core/tree/main/charts/core,11,5
+/instill-ai/instill-core/blob/main/.github/workflows/releases.yml,10,3
+/instill-ai/instill-core/tree/main/.github,8,5
+/instill-ai/instill-core/actions/runs/15667644946,8,1
+/instill-ai/instill-core/tree/main/.github/workflows,7,5

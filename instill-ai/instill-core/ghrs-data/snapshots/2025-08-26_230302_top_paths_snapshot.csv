@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,26,14
+/instill-ai/instill-core/commits/main,6,2
+/instill-ai/instill-core/tree/main/charts/core,6,2
+/instill-ai/instill-core/blob/main/.env,5,3
+/instill-ai/instill-core/commit/c86878763070e7453bcb3d5234506c669cefae32,3,1
+/instill-ai/instill-core/blob/main/charts/core/Chart.lock,2,2
+/instill-ai/instill-core/blob/main/charts/core/Chart.yaml,2,2
+/instill-ai/instill-core/tree/main/charts/core/templates,2,2
+/instill-ai/instill-core/blob/4fc9ceefc246b0560f1544611e16da435b204ecf/charts/core/Chart.yaml,2,1
+/instill-ai/instill-core/blob/952a51f9d7a5b0132d7a0c8eb4c077940525fc14/Makefile.helper,2,1

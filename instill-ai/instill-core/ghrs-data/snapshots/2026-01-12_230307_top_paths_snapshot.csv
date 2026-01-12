@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,83,53
+/instill-ai/instill-core/issues,27,5
+/instill-ai/instill-core/actions/workflows/integration-test.yml,5,1
+/instill-ai/instill-core/actions,4,2
+/instill-ai/instill-core/blob/main/docker-compose-nvidia.yml,3,3
+/instill-ai/instill-core/commit/7ddee0a546496d15bf8e6d24fc54e1addfaa26ba,3,3
+/instill-ai/instill-core/issues/1272,3,3
+/instill-ai/instill-core/releases,3,2
+/instill-ai/instill-core/tree/main/charts/core,3,2
+/instill-ai/instill-core/blob/main/.github/CONTRIBUTING.md,3,1

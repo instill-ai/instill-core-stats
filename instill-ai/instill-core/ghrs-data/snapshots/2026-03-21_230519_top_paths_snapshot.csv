@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,78,57
+/instill-ai/instill-core/issues,11,6
+/instill-ai/instill-core/pulls,8,2
+/instill-ai/instill-core/pull/1430,4,1
+/instill-ai/instill-core/compare/v0.58.0...v0.58.1,3,2
+/instill-ai/instill-core/labels,3,2
+/instill-ai/instill-core/blob/main/README.md,3,1
+/instill-ai/instill-core/blob/main/release-please/config.json,3,1
+/instill-ai/instill-core/pull/1430/changes,3,1
+/instill-ai/instill-core/blob/main/charts/core/README.md,2,2

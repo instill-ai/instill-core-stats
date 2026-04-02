@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,67,59
+/instill-ai/instill-core/issues,19,5
+/instill-ai/instill-core/pulls,6,3
+/instill-ai/instill-core/commit/8f4ee7a6deeffc1f13938bafe54b688b39356719,4,2
+/instill-ai/instill-core/compare/v0.58.0...v0.58.1,3,3
+/instill-ai/instill-core/pull/1010,3,2
+/instill-ai/instill-core/tree/main/.github,3,1
+/instill-ai/instill-core/actions,2,2
+/instill-ai/instill-core/blob/main/.env.secrets.component,2,2
+/instill-ai/instill-core/blob/main/.env.secrets.console,2,2

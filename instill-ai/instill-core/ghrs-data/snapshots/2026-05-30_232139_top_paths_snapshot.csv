@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,57,44
+/instill-ai/instill-core/issues,11,11
+/instill-ai/instill-core/pulls,5,3
+/instill-ai/instill-core/commit/4149e9ce224d3611c343c50fffaa348766a61db9,4,1
+/instill-ai/instill-core/commit/266ed854aa64cea6a51c3069446192a3e3c1584b,3,2
+/instill-ai/instill-core/commit/293fc1fe4834eb5c85137ada07e389d7e88592de,3,1
+/instill-ai/instill-core/actions/workflows/make-latest.yml,2,2
+/instill-ai/instill-core/blob/main/.env,2,2
+/instill-ai/instill-core/blob/main/LICENSE,2,2
+/instill-ai/instill-core/commit/ae9e227f2c6dd896a01889d5e104619f5efa6186,2,2

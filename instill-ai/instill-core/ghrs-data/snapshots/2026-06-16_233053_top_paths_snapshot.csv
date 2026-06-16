@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,53,37
+/instill-ai/instill-core/issues,6,6
+/instill-ai/instill-core/milestones,2,2
+/instill-ai/instill-core/pulls,2,2
+/instill-ai/instill-core/commit/293fc1fe4834eb5c85137ada07e389d7e88592de,2,1
+/instill-ai/instill-core/commit/6eb5a709fbdcb9023fef8b0d4ae2bfe0bd5df83a,2,1
+/instill-ai/instill-core/commit/e362f7903cb53172ec65d406a573954ab32afa71,2,1
+/instill-ai/instill-core/actions/caches,1,1
+/instill-ai/instill-core/actions/workflows/add-comment-to-issue.yml,1,1
+/instill-ai/instill-core/actions/workflows/integration-test-latest.yml,1,1

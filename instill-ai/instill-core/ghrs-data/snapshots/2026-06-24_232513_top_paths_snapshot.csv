@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,44,32
+/instill-ai/instill-core/issues,7,7
+/instill-ai/instill-core/pulls,2,2
+/instill-ai/instill-core/commit/6eb5a709fbdcb9023fef8b0d4ae2bfe0bd5df83a,2,1
+/instill-ai/instill-core/actions/caches,1,1
+/instill-ai/instill-core/actions/runs/16794930197/workflow,1,1
+/instill-ai/instill-core/blob/1ba40b24c5a56042e25a9bfa4e0fd6c9c72b4a14/.github/CODEOWNERS,1,1
+/instill-ai/instill-core/blob/3a735d699b1f7b97a84706b40b78d86a14821232/.github/CODEOWNERS,1,1
+/instill-ai/instill-core/blob/3a84090a951213f872c9b00793e493b6125e7af4/.github/CODEOWNERS,1,1
+/instill-ai/instill-core/blob/475f7e10d38f4470f1e1d5cd458a7333d6095ca1/.github/CODEOWNERS,1,1

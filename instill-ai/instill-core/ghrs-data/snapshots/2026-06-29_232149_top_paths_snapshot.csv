@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,39,29
+/instill-ai/instill-core/issues,17,10
+/instill-ai/instill-core/pulls,5,2
+/instill-ai/instill-core/actions/runs/21329224251/workflow,2,2
+/instill-ai/instill-core/blob/main/.github/workflows/releases.yml,2,2
+/instill-ai/instill-core/actions/runs/16794930197/workflow,1,1
+/instill-ai/instill-core/blob/7f4da14f1001e803531089dccf66e25b78ceb1e4/.github/workflows/releases-helm-charts.yml,1,1
+/instill-ai/instill-core/blob/b9976c41f47b076991463725a963ee3bfc446030/configs/compose/tempo/config.yml,1,1
+/instill-ai/instill-core/blob/e737d0b1a6d8618b44bee24f502778d38abecc92/examples/streamlit/instance_segmentation/utils.py,1,1
+/instill-ai/instill-core/blob/main/.github/CONTRIBUTING.md,1,1

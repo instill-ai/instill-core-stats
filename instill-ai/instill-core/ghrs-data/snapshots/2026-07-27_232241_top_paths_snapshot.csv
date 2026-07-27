@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,39,32
+/instill-ai/instill-core/issues,10,8
+/instill-ai/instill-core/issues/901,3,3
+/instill-ai/instill-core/pulls,3,2
+/instill-ai/instill-core/actions/workflows/releases.yml,2,2
+/instill-ai/instill-core/blob/74673cbc/.github/labeler.yml,2,2
+/instill-ai/instill-core/blob/74673cbc/.pre-commit-config.yaml,2,2
+/instill-ai/instill-core/blob/74673cbc/schema/ai-tasks.json,2,2
+/instill-ai/instill-core/commit/1e29003118845e4c5be344c2d8109b79d08f7c26,2,2
+/instill-ai/instill-core/commit/b9976c41f47b076991463725a963ee3bfc446030,2,2

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,36,25
+/instill-ai/instill-core/blob/main/protocol/vdp_protocol.yaml,10,10
+/instill-ai/instill-core/issues,9,8
+/instill-ai/instill-core/pulls,8,4
+/instill-ai/instill-core/pull/447,2,2
+/instill-ai/instill-core/commits,2,1
+/instill-ai/instill-core/actions/runs/16795021846,1,1
+/instill-ai/instill-core/actions/workflows/make-latest.yml,1,1
+/instill-ai/instill-core/actions/workflows/releases.yml,1,1
+/instill-ai/instill-core/blob/09010106a6ed46da4b08d1aee29a668634790401/.github/CODEOWNERS,1,1

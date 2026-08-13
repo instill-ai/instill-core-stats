@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,41,25
+/instill-ai/instill-core/blob/main/protocol/vdp_protocol.yaml,10,10
+/instill-ai/instill-core/issues,10,8
+/instill-ai/instill-core/pulls,10,5
+/instill-ai/instill-core/issues/1109,2,2
+/instill-ai/instill-core/issues/901,2,2
+/instill-ai/instill-core/actions/workflows/make-latest.yml,1,1
+/instill-ai/instill-core/blob/09010106a6ed46da4b08d1aee29a668634790401/.github/CODEOWNERS,1,1
+/instill-ai/instill-core/blob/1cc19b92ce936983cdd800fd7e3e7b23badb6038/Dockerfile,1,1
+/instill-ai/instill-core/blob/a7ce98bedbe5a5a9f77d518f8e5231a3ada4ce22/.github/CODEOWNERS,1,1

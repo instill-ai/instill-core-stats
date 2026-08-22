@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,55,36
+/instill-ai/instill-core/issues,17,13
+/instill-ai/instill-core/pulls,9,5
+/instill-ai/instill-core/issues/901,3,3
+/instill-ai/instill-core/issues/574,2,2
+/instill-ai/instill-core/pull/90,2,2
+/instill-ai/instill-core/pull/90/files,2,2
+/instill-ai/instill-core/actions/workflows/integration-test-latest.yml,1,1
+/instill-ai/instill-core/blob/2cd13bb103d4f228bae36694416e0f654ec94c5a/.github/workflows/add-comment-to-issue.yml,1,1
+/instill-ai/instill-core/blob/2cd13bb103d4f228bae36694416e0f654ec94c5a/.github/workflows/add-label-to-pr.yml,1,1

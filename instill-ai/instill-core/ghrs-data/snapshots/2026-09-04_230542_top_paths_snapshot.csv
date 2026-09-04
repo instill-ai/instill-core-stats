@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,74,40
+/instill-ai/instill-core/issues,16,12
+/instill-ai/instill-core/pulls,6,3
+/instill-ai/instill-core/blob/e737d0b1a6d8618b44bee24f502778d38abecc92/examples/streamlit/instance_segmentation/utils.py,3,3
+/instill-ai/instill-core/blob/02582a24b221361617d98015e1f88cf6c7cac5ff/.github/CODEOWNERS,2,2
+/instill-ai/instill-core/blob/main/Makefile,2,2
+/instill-ai/instill-core/blob/main/charts/core/README.md,2,2
+/instill-ai/instill-core/commit/4149e9ce224d3611c343c50fffaa348766a61db9,2,2
+/instill-ai/instill-core/issues/1094,2,2
+/instill-ai/instill-core/issues/608,2,2

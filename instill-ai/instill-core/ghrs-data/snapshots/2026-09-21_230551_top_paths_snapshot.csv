@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/instill-ai/instill-core,78,42
+/instill-ai/instill-core/issues,9,8
+/instill-ai/instill-core/pulls,8,3
+/instill-ai/instill-core/pull/1250,3,1
+/instill-ai/instill-core/actions,2,2
+/instill-ai/instill-core/blob/main/.env,2,2
+/instill-ai/instill-core/commits/main,2,2
+/instill-ai/instill-core/releases,2,2
+/instill-ai/instill-core/pull/1350,2,1
+/instill-ai/instill-core/blob/36a847b57ab1725ccd22df53eb0e203e729841d8/examples/async/yolov7/README.md,1,1
